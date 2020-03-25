@@ -30,7 +30,7 @@
    
 ### 结果             
    
-   测试了两个模型，其中Random Forest模型的效果更好（）
-###感谢
+   测试了两个模型，其中Logistic Regression模型的效果更好（ROC 0.6）
+### 感谢
    
    感谢Udacity
